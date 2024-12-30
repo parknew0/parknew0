@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parknew0&layout=compact&theme=dark) 
     
 # 🏅 Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=park_new0)](https://solved.ac/park_new0)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=park_new0)](https://solved.ac/parknew0)  
   
 </div>
 
