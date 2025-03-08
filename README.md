@@ -3,7 +3,7 @@
 <div align="center">
   
 
-# 💻 EXP
+# 💻 대외활동
   | 날짜 | 이름 | 비고 | 
 |----|----|----|
 | 2024.11 |GDG KNU VISION CHALLENGETHON 해커톤| |
