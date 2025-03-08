@@ -10,6 +10,16 @@
   🍕 is my favorite food and I love minecraft💎⛏️  
   I drink 🍋 iced tea instead of ☕️ when 👨🏻‍💻
   <br><br>
+
+
+  | 날짜 | 이름 | 비고 | 
+|----|----|----|
+| 2024.11 |GDG KNU VISION CHALLENGETHON| |
+| 2024.09 |2024 대구를 빛내는 해커톤|대상|
+| 2024.09~ |Google Developer Groups KNU 4기 Frontend Member| |
+| 2024.08 |멋쟁이사자처럼 대학 12기 중앙해커톤| |
+| 2024.06 |2024 KNU GLOW HACKATHON| |
+| 2024.03~12 |멋쟁이사자처럼 대학 12기 Frontend|수료|
   
   # 🛠️ Tech stack
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
