@@ -7,6 +7,7 @@
   | 날짜 | 이름 | 비고 | 
 |----|----|----|
 | 2025.04 ~ |카카오 테크 캠퍼스 3기 Backend 멤버| |
+| 2025.03 ~ |Capstone Project with Microsoft| |
 | 2024.11 |GDG KNU VISION CHALLENGETHON 해커톤| |
 | 2024.09 |2024 대구를 빛내는 해커톤|대상|
 | 2024.09 ~ 12|Google Developer Groups KNU 4기 Frontend Member| |
