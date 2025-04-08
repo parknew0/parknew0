@@ -10,7 +10,7 @@
 | 2025.03 ~ |Capstone Project with Microsoft| |
 | 2024.11 |GDG KNU VISION CHALLENGETHON 해커톤| |
 | 2024.09 |2024 대구를 빛내는 해커톤|대상|
-| 2024.09 ~ 12|Google Developer Groups KNU 4기 Frontend Member| |
+| 2024.09 ~ 12|Google Developer Groups KNU 4기 Frontend 멤버| |
 | 2024.08 |멋쟁이사자처럼 대학 12기 중앙 해커톤| |
 | 2024.06 |2024 KNU GLOW HACKATHON 해커톤| |
 | 2024.03 ~ 12 |멋쟁이사자처럼 대학 12기 Frontend 멤버|수료|
