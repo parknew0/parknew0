@@ -28,7 +28,7 @@
   
     
 # 🏅 Baekjoon solved rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=park_new0)](https://solved.ac/profile/park_new0)  <img src="http://mazandi.herokuapp.com/api?handle=park_new0&theme=cold"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=park_new0)](https://solved.ac/profile/park_new0)  <img src="http://mazandi.herokuapp.com/api?handle=park_new0&theme=frog"/>
 </div>
 
 
