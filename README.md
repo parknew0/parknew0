@@ -16,6 +16,8 @@
 | 2024.03 ~ 12 |멋쟁이사자처럼 대학 12기 Frontend 멤버|수료|
   
   # 🛠️ Tech stack
+  <a href="https://github.com/gunGeongun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parknew0&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide=javascript,EJS,css,html" /></a> 
+<br><br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
