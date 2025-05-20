@@ -6,8 +6,10 @@
 # 💻 대외활동
   | 날짜 | 이름 | 비고 | 
 |----|----|----|
+| 2025.05 |2025 대경권 대학생 프로그래밍 경진대회|우수 |
 | 2025.04 ~ |카카오 테크 캠퍼스 3기 Backend 멤버| |
 | 2025.03 ~ |Capstone Project with Microsoft| |
+| 2024.12 |KNUCUBE 비교과 학생수기 에세이 공모전|우수 |
 | 2024.11 |GDG KNU VISION CHALLENGETHON 해커톤| |
 | 2024.09 |2024 대구를 빛내는 해커톤|대상|
 | 2024.09 ~ 12|Google Developer Groups KNU 4기 Frontend 멤버| |
